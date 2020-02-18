@@ -1,0 +1,13 @@
+Untuk run Face Recognition,
+
+Just run pidetection.py
+
+Untuk tambah face
+1. Enter into 'dataset' folder
+2. Create new folder with user's name
+3. Place user's face images
+4. Run encode_faces.py 
+
+
+Notes:
+1. Ini clean code, database tak guna, just face recognition je
